@@ -18,7 +18,7 @@ export default function Navbar() {
   // }
   return (
     <div className=" shadow shadow-gray-500 w-[100%] fixed bg-white  z-100">
-      <div className=" bg-white w-[100%] flex justify-between items-center max-w-[1440px] mx-auto py-[20px] px-[50px]    max-md:hidden  ">
+      <div className=" bg-white w-[100%] flex justify-between items-center max-w-[1200px] mx-auto py-[20px]  max-md:hidden  ">
         <div className="w-[70%]  flex justify-between items-center">
           <div className="w-[20%]">
             <Link to={"/"}>
